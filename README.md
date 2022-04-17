@@ -9,3 +9,5 @@ API Key: mapquest.com
 
 ##### Session 2: Dashboard Exercise 1 
 Last updated document: https://github.com/shuznut/Applications-Training/blob/main/DataDisca_SessionII.pbix
+
+##### Session 3: Timeseries Analysis using Software
