@@ -8,4 +8,4 @@ geojson data file : https://github.com/tonywr71/GeoJson-Data/blob/master/austral
 API Key: mapquest.com
 
 ##### Session 2: Dashboard Exercise 1 
-Last updated document: 
+Last updated document: https://github.com/shuznut/Applications-Training/blob/main/DataDisca_SessionII.pbix
